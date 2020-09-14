@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RouteMe.API", "RouteMe.API.csproj", "{70C9D43D-42C8-4864-AA00-95A633B1EC05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70C9D43D-42C8-4864-AA00-95A633B1EC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70C9D43D-42C8-4864-AA00-95A633B1EC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70C9D43D-42C8-4864-AA00-95A633B1EC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70C9D43D-42C8-4864-AA00-95A633B1EC05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
